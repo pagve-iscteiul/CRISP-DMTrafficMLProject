@@ -2,7 +2,7 @@
 
 Pré-requesitos:
   - Precisa de ter Python instalado: https://www.python.org/downloads/
-  - Precisa de ter Anaconda3 instalado: 
+  - Precisa de ter Anaconda3 instalado: https://www.anaconda.com/download/success
 
 Aceder ao projecto:
   - Clonar o projecto
